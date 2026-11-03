@@ -4,4 +4,4 @@ This Streamlit app describes in depth my solution to finding primes within a ran
 # Important Notes
 Though this app was created with Streamlit deployment in mind, it is currently only deployed on Github Pages.
 <br><br>
-Link →
+Link → https://ceciliafierro248-max.github.io/findingPrimes/
